@@ -262,9 +262,16 @@ npm run build
 ## 🖼️ Screenshots
 
 All screenshots are in the `uploads/` folder. Example usage in markdown:
+### Login Page
 ![Login Page](uploads/LoginPage.jpg)
+
+### Home Page
 ![Home Page](uploads/HomePage.jpg)
+
+### Dashboard Page
 ![Dashboard](uploads/EmployeeDashboard.jpg)
+
+### Employee Management Page
 ![Employee Management Page](uploads/EmployeePage.jpg)
 
 ## 🤝 Contributing
