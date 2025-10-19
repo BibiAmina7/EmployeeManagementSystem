@@ -263,9 +263,9 @@ npm run build
 
 All screenshots are in the `uploads/` folder. Example usage in markdown:
 ![Login Page](uploads/LoginPage.jpg)
-![Home Page](uploads/HomePage.png)
-![Dashboard](uploads/EmployeeDashboard.png)
-![Employee Management Page](uploads/EmployeePage.png)
+![Home Page](uploads/HomePage.jpg)
+![Dashboard](uploads/EmployeeDashboard.jpg)
+![Employee Management Page](uploads/EmployeePage.jpg)
 
 ## 🤝 Contributing
 
